@@ -9,7 +9,7 @@ Explorando os Recursos de IA Generativa
 ## Situação problema
 
 
-Através do conhecimento adquirido no bootcamp, utilize os recursos de IA do Azure para reconhecer textos presentes emimagens imagens:
+Através do conhecimento adquirido no bootcamp, utilize os recursos de IA do Azure para reconhecer textos presentes em imagens:
 
 1. Crie uma pasta chamada 'inputs' e salve as imagens que você utilizará.
 2. Crie uma pasta chamado 'outputs' e salve os resultados de reconhecimento de texto nessas imagens.
@@ -23,7 +23,7 @@ Primeiro precisei criar um recurso de inteligência virtual, pesquisei por Azure
 
 ## Passo 2: Abrindo e configurando o Portal AI Vision Studio
 
-Após criar o seu serviço de inteligencia virtual do Azure, nasta abrir o Azure AI Vision Studio e selecionar o serviço de inteligência artificial que acabamos de criar, feito isto ja esta tudo pronto para utilizarmos as nossas imagens.
+Após criar o seu serviço de inteligencia virtual do Azure, basta abrir o Azure AI Vision Studio e selecionar o serviço de inteligência artificial que acabamos de criar, feito isto ja esta tudo pronto para utilizarmos as nossas imagens.
 
 
 ## Passo 3: Utilizando as nossas imagens no serviço Azure AI Vision Studio
